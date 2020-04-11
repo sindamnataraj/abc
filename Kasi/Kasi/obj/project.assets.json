@@ -1,0 +1,77 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\nasindam\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\nasindam\\Source\\Repos\\Kasi\\Kasi\\Kasi.csproj",
+      "projectName": "Kasi",
+      "projectPath": "C:\\Users\\nasindam\\Source\\Repos\\Kasi\\Kasi\\Kasi.csproj",
+      "packagesPath": "C:\\Users\\nasindam\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\nasindam\\Source\\Repos\\Kasi\\Kasi\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\nasindam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://microsoft.pkgs.visualstudio.com/_packaging/Flighting/nuget/v3/index.json": {},
+        "https://microsoft.pkgs.visualstudio.com/_packaging/MEE.Privacy/nuget/v3/index.json": {},
+        "https://microsoft.pkgs.visualstudio.com/_packaging/MSEG.CMC.Channels.CES.Security.KeyVault/nuget/v3/index.json": {},
+        "https://microsoft.pkgs.visualstudio.com/_packaging/MSEG.EAE.DeploymentPackagesFeed/nuget/v3/index.json": {},
+        "https://microsoft.pkgs.visualstudio.com/_packaging/MSEG.EAE.DeploymentPackagesFeedForProd/nuget/v3/index.json": {},
+        "https://microsoft.pkgs.visualstudio.com/_packaging/MSEG.EAE.SharedLibraries/nuget/v3/index.json": {},
+        "https://microsoft.pkgs.visualstudio.com/_packaging/Universal.Store/nuget/v3/index.json": {},
+        "https://microsoft.pkgs.visualstudio.com/_packaging/UniversalStore.Tools.Authorization/nuget/v3/index.json": {},
+        "https://nuget.org/api/v2/": {},
+        "https://www.myget.org/F/vssclientlibraries-preview/api/v2/": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

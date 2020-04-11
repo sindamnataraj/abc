@@ -1,0 +1,11 @@
+C:\Users\nasindam\Source\Repos\Kasi\Kasi\bin\Debug\netcoreapp3.1\Kasi.exe
+C:\Users\nasindam\Source\Repos\Kasi\Kasi\bin\Debug\netcoreapp3.1\Kasi.deps.json
+C:\Users\nasindam\Source\Repos\Kasi\Kasi\bin\Debug\netcoreapp3.1\Kasi.runtimeconfig.json
+C:\Users\nasindam\Source\Repos\Kasi\Kasi\bin\Debug\netcoreapp3.1\Kasi.runtimeconfig.dev.json
+C:\Users\nasindam\Source\Repos\Kasi\Kasi\bin\Debug\netcoreapp3.1\Kasi.dll
+C:\Users\nasindam\Source\Repos\Kasi\Kasi\bin\Debug\netcoreapp3.1\Kasi.pdb
+C:\Users\nasindam\Source\Repos\Kasi\Kasi\obj\Debug\netcoreapp3.1\Kasi.csprojAssemblyReference.cache
+C:\Users\nasindam\Source\Repos\Kasi\Kasi\obj\Debug\netcoreapp3.1\Kasi.AssemblyInfoInputs.cache
+C:\Users\nasindam\Source\Repos\Kasi\Kasi\obj\Debug\netcoreapp3.1\Kasi.AssemblyInfo.cs
+C:\Users\nasindam\Source\Repos\Kasi\Kasi\obj\Debug\netcoreapp3.1\Kasi.dll
+C:\Users\nasindam\Source\Repos\Kasi\Kasi\obj\Debug\netcoreapp3.1\Kasi.pdb
